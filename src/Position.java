@@ -1,0 +1,3 @@
+public enum Position {
+    RH,WAREHOUSE, MAINTENANCE, MANAGER, SALESMAN
+}
